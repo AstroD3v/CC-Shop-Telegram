@@ -1,4 +1,4 @@
-Credit card shop for Telegram with crypto payments integration 
+CREDIT CARD SHOP FOR TELEGRAM WITH CRYPTO PAYMENTS INTEGRATION
 
 Features:
 
