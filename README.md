@@ -10,16 +10,14 @@ Features:
 - Products priced on LTC and USD equivalent
 - Multiple search subsections (BIN, Country, Category, All Cards)
 - Intuitive and friendly design with buttons
-- Buy CCs section
-- My Cards section
-- Wallet section
-- Search section
-- Referral program section
+- Buy CCs section, My CCs section, Wallet section, Referral Program section
 - Easy setup
 
   Price: $200 (Includes 2 months of bot hosting for free)
 
   DEMO BOT: @thelemaccshop_bot
+
+  https://t.me/thelemaccshop_bot
 
   Contact: @AstroD3v
 
