@@ -12,14 +12,11 @@ Features:
 - Intuitive and friendly design with buttons
 - Buy CCs section, My CCs section, Wallet section, Referral Program section
 - Easy setup
+- Auth CC checker with refund system (customer have 90 secs to check after buying) #### NEW FEATURE
 
   Price: $200 (Includes 2 months of bot hosting for free)
-
-  DEMO BOT: @thelemaccshop_bot
-
-  https://t.me/thelemaccshop_bot
-
-  Contact: @AstroD3v
+  
+  Contact for demo and questions: @AstroD3v
 
   https://t.me/AstroD3v
 
