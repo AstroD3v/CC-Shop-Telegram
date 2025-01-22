@@ -13,6 +13,7 @@ Features:
 - Buy CCs section, My CCs section, Wallet section, Referral Program section
 - Easy setup
 - Auth CC checker with refund system (customer have 90 secs to check after buying) <----- NEW FEATURE
+  
 
   Price: $200 (Includes 2 months of bot hosting for free)
   
